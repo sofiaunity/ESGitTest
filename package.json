@@ -1,0 +1,19 @@
+{
+  "name": "com.unity.enginesupport.esgittest",
+  "version": "1.0.0",
+  "displayName": "Engine Support Git Test",
+  "description": "This is a sample package. ",
+  "unity": "2019.4",
+  "unityRelease": "10f1",
+  "keywords":
+    [
+      "GitTest",
+      "EngineSupport"
+    ],
+  "author":
+  {
+    "name": "Unity User",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
